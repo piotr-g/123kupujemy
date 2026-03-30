@@ -1,4 +1,4 @@
-# 123kupujemy.pl - Skup Aut Śląsk
+# 123kupujemy.pl - Skup aut Śląsk
 
 ## Opis projektu
 Profesjonalna strona internetowa dla firmy skupującej samochody w województwie śląskim.
