@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.123kupujemy.pl/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow any potential admin or private directories
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
